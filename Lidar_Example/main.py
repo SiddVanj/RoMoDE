@@ -45,7 +45,7 @@ def visualize_comparison(fps=5, switch_interval=10):
     """Compare clean vs unclean dataset visualization - LiDAR only"""
     # Setup paths
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    lidar_pattern = os.path.join(base_dir, 'velodyne_points/data/*.bin')
+    lidar_pattern = os.path.join(base_dir, 'path0')
     
     lidar_files = sorted(glob(lidar_pattern))
     
