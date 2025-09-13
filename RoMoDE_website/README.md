@@ -1,4 +1,4 @@
-# RoMoDE: Robotics Dataset Demo Platform
+# RoMoDE: Robotics Multimodal Dataset Exchange
 
 A modern web app for uploading, processing, searching, and demoing robotics datasets. No ROS bag, no cloud backend—just a browser-based experience for showcasing dataset features and search.
 
@@ -72,3 +72,4 @@ Each dataset includes:
 
 ---
 RoMoDE: A demo-ready robotics dataset platform for UI and search showcase.
+
