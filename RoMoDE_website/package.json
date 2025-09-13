@@ -1,0 +1,49 @@
+{
+  "name": "robodata-pipeline",
+  "version": "1.0.0",
+  "description": "AI-powered platform for robotics data processing, validation, and analysis using AI Studio APIs",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server .",
+    "build": "echo 'No build process needed for static website'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [
+    "robotics",
+    "data-processing",
+    "ai-studio",
+    "machine-learning",
+    "computer-vision",
+    "ros",
+    "dataset",
+    "validation",
+    "quality-scoring",
+    "semantic-search",
+    "feature-extraction",
+    "pipeline"
+  ],
+  "author": "RoboData Pipeline Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/robodata-pipeline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/robodata-pipeline/issues"
+  },
+  "homepage": "https://github.com/your-username/robodata-pipeline#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
