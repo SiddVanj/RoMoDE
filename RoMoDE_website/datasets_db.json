@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Example Dataset",
+    "owner": "John Doe",
+    "sensor_stack": "Lidar, Camera",
+    "environment_details": "Indoor, low light",
+    "components_used": "Raspberry Pi, Arduino",
+    "description": "A sample robotics dataset for testing.",
+    "price_for_download": 10.0,
+    "content_tags": ["robotics", "indoor", "lidar"],
+    "zip_file": "robodata_pipeline_updated.zip"
+  },
+  {
+    "name": "Warehouse Pick-and-Place Operations",
+    "owner": "RoboData Team",
+    "sensor_stack": "Camera, Force-Torque, Joint Encoders",
+    "environment_details": "Warehouse, industrial",
+    "components_used": "Universal Robots UR5",
+    "description": "Dataset containing pick-and-place operations in a warehouse environment with various objects.",
+    "price_for_download": 15.0,
+    "content_tags": ["warehouse", "pick-and-place", "industrial", "gripper", "conveyor"],
+    "zip_file": "warehouse_pick_place.zip"
+  },
+  {
+    "name": "Kitchen Manipulation Tasks",
+    "owner": "RoboData Team",
+    "sensor_stack": "Camera, IMU, Joint Encoders",
+    "environment_details": "Kitchen, home",
+    "components_used": "Franka Panda",
+    "description": "Robotic manipulation tasks in a kitchen environment including cutting, stirring, and serving.",
+    "price_for_download": 12.0,
+    "content_tags": ["kitchen", "manipulation", "cutting", "stirring", "food"],
+    "zip_file": "kitchen_manipulation.zip"
+  },
+  {
+    "name": "Outdoor Autonomous Vehicle Navigation",
+    "owner": "OpenRobotics",
+    "sensor_stack": "Lidar, Camera, GPS, IMU",
+    "environment_details": "Outdoor, urban",
+    "components_used": "Custom Autonomous Vehicle",
+    "description": "Navigation dataset for autonomous vehicles in urban outdoor environments.",
+    "price_for_download": 20.0,
+    "content_tags": ["autonomous", "vehicle", "outdoor", "navigation", "lidar", "camera"],
+    "zip_file": "autonomous_vehicle_nav.zip"
+  },
+  {
+    "name": "Factory Assembly Line Monitoring",
+    "owner": "IndustrialAI",
+    "sensor_stack": "Camera, Force Sensors, Temperature Sensors",
+    "environment_details": "Factory, assembly line",
+    "components_used": "ABB IRB 120",
+    "description": "Dataset for monitoring and analyzing factory assembly line operations.",
+    "price_for_download": 18.0,
+    "content_tags": ["factory", "assembly", "monitoring", "temperature", "force"],
+    "zip_file": "factory_assembly_monitor.zip"
+  }
+]
