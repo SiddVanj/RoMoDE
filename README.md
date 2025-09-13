@@ -67,7 +67,8 @@ Each dataset includes:
 - FontAwesome for icons
 
 ## Notes
-- All data is stored in browser memory for demo purposes
+- You would require at least 1 lidar point cloud file (could be .bin files too), for running main.py
+- Replace "path0" in main.py to the directory pointing to the Lidar Point Cloud(s)
 
 
 ---
