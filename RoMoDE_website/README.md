@@ -65,6 +65,7 @@ Each dataset includes:
 - HTML, CSS, JavaScript (ES6+)
 - Chart.js for dashboard charts
 - FontAwesome for icons
+- Python
 
 ## Notes
 - All data is stored in browser memory for demo purposes
@@ -72,4 +73,5 @@ Each dataset includes:
 
 ---
 RoMoDE: A demo-ready robotics dataset platform for UI and search showcase.
+
 
