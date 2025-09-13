@@ -65,6 +65,7 @@ Each dataset includes:
 - HTML, CSS, JavaScript (ES6+)
 - Chart.js for dashboard charts
 - FontAwesome for icons
+- Python
 
 ## Notes
 - You would require at least 1 lidar point cloud file (could be .bin files too), for running main.py
